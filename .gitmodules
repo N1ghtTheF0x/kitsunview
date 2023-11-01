@@ -1,0 +1,3 @@
+[submodule "LibKitsune"]
+	path = firstparty/libkitsune
+	url = https://github.com/N1ghtTheF0x/libkitsune
